@@ -1,5 +1,9 @@
 {
   "name": "Bootstrap",
   "version": "0.0.0",
-  "components": "components"
+  "components": ["components/*.html"],
+  "styles": [
+    "css/bootstrap.css",
+    "css/bootstrap-theme.css"
+  ]
 }

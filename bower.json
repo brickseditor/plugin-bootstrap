@@ -1,0 +1,10 @@
+{
+  "name": "bricks-plugin-bootstrap",
+  "version": "0.0.0",
+  "dependencies": {},
+  "devDependencies": {
+    "angular": "~1.2.0",
+    "angular-mocks": "~1.2.0",
+    "jquery": "~2.0.3"
+  }
+}
